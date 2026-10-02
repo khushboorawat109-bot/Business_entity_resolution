@@ -119,3 +119,6 @@ Raw competition data is not included in this repository per the
 competition's terms — `dataset/` is `.gitignore`d. The code is fully
 runnable against any data matching the documented schema (see `src/` and
 inline docstrings for exact format expectations).
+
+
+## This problem is basically given in my amazon ml challenge hackathon .
