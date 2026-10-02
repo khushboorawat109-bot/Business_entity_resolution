@@ -1,0 +1,8 @@
+dataset/
+output/
+*.tsv
+*.pkl
+*.joblib
+__pycache__/
+*.pyc
+.DS_Store
